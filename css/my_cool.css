@@ -1,0 +1,40 @@
+/* test class */
+
+.a {
+  background-color: red;
+}
+
+.b {
+  background-color: #580C0C;
+}
+
+.c {
+  background-color: #0C5823;
+}
+
+.d {
+  background-color: #0C5823;
+}
+
+.e {
+  background-color: yellow
+}
+
+.g {
+  background-color: green
+}
+
+.f {
+  background-color: blue;
+}
+
+.w {
+  height: 50px
+}
+
+
+
+/* prod */
+.logo{
+    width: 130px
+}
